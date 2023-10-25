@@ -1,44 +1,42 @@
 # Exercise 1 - Exercise 1 Description
 
-In this exercise, we will create...
+In this exercise, we will __generate a workflow__ for the Integration scenario - _Cloud For Projects - Projects Collaboration_
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Plan for Integration
 
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+Select the Plan for Integration tile in the Home screen of the CIAS application
 
 
+1. Select the __Plan for Integration__ tile in the Home screen of the CIAS application 
+   
+![scenario selection](/exercises/ex1/images/overview.png)
 
-## Exercise 1.2 Sub Exercise 2 Description
+2. Search for **S/4HANA Cloud for Projects, Collaborative Project Management (6JN)** integration scenario
+3. Select the line item that will open up the side panel with more information about the integration scenario
+   
+4. [Optional] You can look at the Description, Entities and Scenario tasks overview
 
-After completing these steps you will have...
+5. Click on the Select Systems button in the side panel
+   
+![system selection](/exercises/ex1/images/selectsystem.png)
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+6. Click on the (SAP BTP system tile) and select the **TechEd-XP263** tenant from the below list
+  
+7. Click on the SAP Cloud Integration and select the **in266-gkd289xc** tenant from the below list
+8. Click on the (SAP S/4HANA system) and select the **my407161** tenant from the below list
 
-```
+9.  Proceed with the **Generate Workflow** button on the top right corner
+10. Confirm the values in the popup and click on **Generate**
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
 
 
 ## Summary
 
-You've now ...
+You've now _successfully_ **generated the workflow**. Now click on the link to navigate to Inbox
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+![workflow summary](/exercises/ex1/images/GenerateSummary.png)
+
+
+
+Continue to - [Exercise 2 - Configuration Setup](../ex2/README.md)
 
