@@ -1,39 +1,56 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-IN266)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-IN266)
 
-# Session ID - Session Title
+# IN266 - Take an Automated Approach to Configuring Integration Scenarios on SAP BTP
 
-## Description
+## Setting up Cloud for Projects using Cloud Integration Automation Service
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2023 session  
+__Session ID - IN266__
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to Cloud Integration Automation Service (CIAS) and you will get hands-on with the configuring of S/4HANA Cloud for Projects, Collaborative Project Management integration scenario in an automated way. The scenario transfer your Projects from the SAP S/4HANA to Cloud for Projects on SAP Business Technology Platform
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+Verify if you have access to the following systems:
+
+
+
+- [x] __SAP S/4HANA :__ [SAP S/4HANA System](https://my407161.s4hana.cloud.sap/ui)
+
+- [x] __SAP BTP :__ [SAP BTP System](https://emea.cockpit.btp.cloud.sap/cockpit?idp=tdct3ched2.accounts.ondemand.com#/globalaccount/afd3e49e-9bd3-41b8-ba49-ea7679f9e677/subaccount/576991fa-34c8-48a9-a661-6c278d2ed1db/subaccountoverview%20)
+
+- [x] __CI :__ [Cloud Integration](https://in266-gkd289xc.integrationsuite.cfapps.eu10-002.hana.ondemand.com/)
+
+- [x] __CIAS Application :__ [CIAS](https://cias-teched-b7x9jgv5.cias-preprod.cfapps.eu10.hana.ondemand.com)
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+List of steps to be followed in order to do the integration setup for Cloud for Projects
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
+- [Getting Started with CIAS](exercises/ex0/README.md)
+- [Exercise 1 - Generation of workflow](exercises/ex1/README.md)
+    
+- [Exercise 2 - Configuration setup](exercises/ex2/)
+    - [Exercise 2.1 - Business Technology Platform setup](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Exercise 2.2 - Cloud Integration setup](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.3 - S/4HANA setup](exercises/ex2#exercise-22-sub-exercise-2-description)
   
-**OR** Link to the Tutorial Navigator for example...
+- [Exercise 3 - Testing the configurations](exercises/ex1/)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Your should login to the above application/tenants with the below user credentials assigned to you. 
+
+For Example:
+> _Username:_ IN266-0XX@education.cloud.sap
+```
+Note:
+    - XX will the student code assigned to you during the hands on exercise
+    - Password will be shared during the session 
+```
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
