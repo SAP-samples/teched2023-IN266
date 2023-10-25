@@ -30,7 +30,7 @@ Verify if you have access to the following systems:
 List of steps to be followed in order to do the integration setup for Cloud for Projects
 
 - [Getting Started with CIAS](exercises/ex0/README.md)
-- [Exercise 1 - Generating the workflow](exercises/ex1/README.md)
+- [Exercise 1 - Generation of workflow](exercises/ex1/README.md)
     
 - [Exercise 2 - Configuration setup](exercises/ex2/)
     - [Exercise 2.1 - Business Technology Platform setup](exercises/ex2#exercise-21-sub-exercise-1-description)

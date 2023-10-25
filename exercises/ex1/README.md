@@ -1,5 +1,4 @@
-# Exercise 1 - Exercise 1 Description
-
+# Exercise 1 - Generation of Workflow
 In this exercise, we will __generate a workflow__ for the Integration scenario - _Cloud For Projects - Projects Collaboration_
 
 ## Plan for Integration
