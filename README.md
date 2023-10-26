@@ -31,13 +31,12 @@ List of steps to be followed in order to do the integration setup for Cloud for 
 
 - [Getting Started with CIAS](exercises/ex0/README.md)
 - [Exercise 1 - Generation of workflow](exercises/ex1/README.md)
-    
-- [Exercise 2 - Configuration setup](exercises/ex2/)
-    - [Exercise 2.1 - Business Technology Platform setup](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Cloud Integration setup](exercises/ex2#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.3 - S/4HANA setup](exercises/ex2#exercise-22-sub-exercise-2-description)
-  
-- [Exercise 3 - Testing the configurations](exercises/ex1/)
+- [Exercise 2 - Scenario Overview](exercises/ex2/README.md)    
+- [Exercise 3 - Configuration setup](exercises/ex3/)
+    - [Exercise 3.1 - Business Technology Platform setup](exercises/ex3#btp)
+    - [Exercise 3.2 - Cloud Integration setup](exercises/ex3#ci)
+    - [Exercise 3.3 - S/4HANA setup](exercises/ex3#s4)
+- [Exercise 4 - Testing the configurations](exercises/ex1/)
 
 
 **IMPORTANT**
