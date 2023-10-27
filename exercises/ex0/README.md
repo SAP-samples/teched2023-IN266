@@ -1,4 +1,4 @@
-# Cloud Integration Automation Service
+# Cloud Integration Automation Service - Overview
 
 In this exercise, you will be using the Cloud Integration Automation Service to setup the integration process in a automated way.
 
