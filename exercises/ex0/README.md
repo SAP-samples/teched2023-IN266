@@ -58,4 +58,4 @@ The guided workflow covers an integration setup for a specific scenario.
 
 
 
-**Continue to - [Exercise 1 - Generation of workflow](../ex1/README.md)**
+**Continue to - [Scenario Overview](../ex1/README.md)**
