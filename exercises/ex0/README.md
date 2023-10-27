@@ -1,4 +1,4 @@
-# Cloud Integration Automation Service
+# Cloud Integration Automation Service - Overview
 
 In this exercise, you will be using the Cloud Integration Automation Service to setup the integration process in a automated way.
 
@@ -58,4 +58,4 @@ The guided workflow covers an integration setup for a specific scenario.
 
 
 
-**Continue to - [Exercise 1 - Generation of workflow](../ex1/README.md)**
+**Continue to - [Scenario Overview](../ex1/README.md)**
