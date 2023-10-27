@@ -29,14 +29,11 @@ Verify if you have access to the following systems:
 
 List of steps to be followed in order to do the integration setup for Cloud for Projects
 
-- [Getting Started with CIAS](exercises/ex0/README.md)
-- [Exercise 1 - Generation of workflow](exercises/ex1/README.md)
-- [Exercise 2 - Scenario Overview](exercises/ex2/README.md)    
-- [Exercise 3 - Configuration setup](exercises/ex3/)
-    - [Exercise 3.1 - Business Technology Platform setup](exercises/ex3#btp)
-    - [Exercise 3.2 - Cloud Integration setup](exercises/ex3#ci)
-    - [Exercise 3.3 - S/4HANA setup](exercises/ex3#s4)
-- [Exercise 4 - Testing the configurations](exercises/ex1/)
+- [CIAS Overview](exercises/ex0/README.md)
+- [Integration Scenario Overview](exercises/ex1/README.md)
+- [Exercise 1 - Generation of workflow](exercises/ex2/README.md)
+- [Exercise 2 - Configuration Setup](exercises/ex3/README.md)    
+- [Next Steps](exercises/ex4/)
 
 
 **IMPORTANT**
