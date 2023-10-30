@@ -23,42 +23,34 @@ Cloud Integration Automation service eases the configuration setup in each of th
 
 ![cias_overview](/exercises/ex1/images/6jnoverview_cias.png)
 
-## Requirements
+## System Landscape
 
-Verify if you have access to the following systems:
+- [x] [__Cloud Integration Automation Service__](https://cias-teched-b7x9jgv5.cias-preprod.cfapps.eu10.hana.ondemand.com)
 
+- [x] [__SAP S/4HANA Cloud__](https://my407161.s4hana.cloud.sap/ui)
 
+- [x] [__SAP BTP Global Account__](https://emea.cockpit.btp.cloud.sap/cockpit?idp=tdct3ched2.accounts.ondemand.com#/globalaccount/afd3e49e-9bd3-41b8-ba49-ea7679f9e677/subaccount/576991fa-34c8-48a9-a661-6c278d2ed1db/subaccountoverview%20)
 
-- [x] __SAP S/4HANA :__ [SAP S/4HANA System](https://my407161.s4hana.cloud.sap/ui)
+- [x] [__CLoud Integration Tenant__](https://in266-gkd289xc.integrationsuite.cfapps.eu10-002.hana.ondemand.com/)
 
-- [x] __SAP BTP :__ [SAP BTP System](https://emea.cockpit.btp.cloud.sap/cockpit?idp=tdct3ched2.accounts.ondemand.com#/globalaccount/afd3e49e-9bd3-41b8-ba49-ea7679f9e677/subaccount/576991fa-34c8-48a9-a661-6c278d2ed1db/subaccountoverview%20)
+## Access Information
 
-- [x] __CI :__ [Cloud Integration](https://in266-gkd289xc.integrationsuite.cfapps.eu10-002.hana.ondemand.com/)
+You can login to the above application/tenants with credentials assigned to you. 
 
-- [x] __CIAS Application :__ [CIAS](https://cias-teched-b7x9jgv5.cias-preprod.cfapps.eu10.hana.ondemand.com)
+For Example:
+> _Username:_ IN266-0XX@education.cloud.sap ( `XX is your number assigned to you during the hands on exercise` )
+
+> _Password:_ `Password will be shared during the hands on exercise` 
+
 
 ## Exercises
 
-List of steps to be followed in order to do the integration setup for Cloud for Projects
+Run the following steps to complete the exercise
 
-- [CIAS Overview](exercises/ex0/README.md)
-- [Integration Scenario Overview](exercises/ex1/README.md)
-- [Exercise 1 - Generation of workflow](exercises/ex2/README.md)
-- [Exercise 2 - Configuration Setup](exercises/ex3/README.md)    
+- [Getting Started](exercises/ex0/README.md)
+- [Generation of workflow](exercises/ex2/README.md)
+- [Configuration Setup](exercises/ex3/README.md)    
 - [Next Steps](exercises/ex4/)
-
-
-**IMPORTANT**
-
-Your should login to the above application/tenants with the below user credentials assigned to you. 
-
-For Example:
-> _Username:_ IN266-0XX@education.cloud.sap
-```
-Note:
-    - XX will the student code assigned to you during the hands on exercise
-    - Password will be shared during the session 
-```
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
