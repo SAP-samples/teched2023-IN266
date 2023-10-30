@@ -7,9 +7,21 @@
 This repository contains the material for the SAP TechEd 2023 session. 
 __Session ID - IN266__
 
-## Overview
+# Overview
 
-This session introduces participants to the Cloud Integration Automation Service (CIAS), and you will gain hands-on experience implementing an automated S/4HANA Cloud for Projects, Collaborative Project Management integration scenario. At the end of completing your integration configutration you will be able to transfer a project created in SAP S/4HANA Cloud  to SAP Cloud for Projects BTP service. 
+This session introduces participants to the Cloud Integration Automation Service, and you will gain hands-on experience implementing an automated S/4HANA Cloud for Projects, Collaborative Project Management integration scenario. At the end of completing your integration configutration, you will be able to transfer a project created in SAP S/4HANA Cloud  to SAP Cloud for Projects BTP application. 
+
+**<ins>Scenario Description</ins>**
+
+SAP S/4HANA Cloud for projects, collaborative project management is a cloud-based solution for collaboration with all partners in projects. With SAP S/4HANA Cloud for projects, collaborative project management, you can share with all project partners crucial information and important documentation about the project.
+
+![overview](/exercises/ex1/images/6jn.png)
+
+**<ins>Configuration of the scenario with Cloud Integration Automation Service</ins>**
+
+Cloud Integration Automation service eases the configuration setup in each of the target system and acts as the orchestrator for the end user. It provides a guided workflow based automated task execution. Once the configuration tasks are completed, then the you will be able to import projects from the S/4HANA Cloud to the SAP SAP Cloud for projects.
+
+![cias_overview](/exercises/ex1/images/6jnoverview_cias.png)
 
 ## Requirements
 
