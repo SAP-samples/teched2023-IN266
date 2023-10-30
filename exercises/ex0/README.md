@@ -1,4 +1,4 @@
-# Cloud Integration Automation Service - Overview
+# Exercise 1 : Getting Started
 
 In this exercise, you will will get an overview of the capabilities of CIAS which will be helpful for the successful completion of the hands-on exercise.
 
@@ -31,12 +31,4 @@ Scenario monitoring provides a comprehensive view of the current integration pro
 
 ![seo](/exercises/ex0/images/seo.png)
 
-
-
-
-
-* Monitoring capabilities for the integration scenario guided workflow.
-
-
-
-**Continue to - [Scenario Overview](../ex1/README.md)**
+**Continue to - [Exercise 2 - Generate a workflow](../ex2/README.md)**
