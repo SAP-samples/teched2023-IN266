@@ -1,58 +1,39 @@
 # Cloud Integration Automation Service - Overview
 
-In this exercise, you will be using the Cloud Integration Automation Service to setup the integration process in a automated way.
+In this exercise, you will will get an overview of the capabilities of CIAS which will be helpful for the successful completion of the hands-on exercise.
 
 ## Overiew
 
-Choose and integration scenario and select the right system
+The Cloud Integration Automation Service homepage consist of three tiles -:
 
-###	Plan for Integration
+### 1. Plan for Integration
 
-This section details all the integration scenario that is onboarded with CIAS, you can choose based on the Cloud or Hybrid setup and generate a workflow. 
-
-It has an integrated landscape discovery where it prompts the user that the customer owns in the system selection
-
-In case of fully automated scenario, you can run the whole setup in background by giving all the minimal necessary parameters for the integration
+This section details all the integration scenario that is onboarded with CIAS, you can choose based on the Cloud or Hybrid setup and generate a workflow. It has an integrated landscape discovery where it prompts the user that the customer owns in the system selection. In case of fully automated scenario, you can run the whole setup in background by giving all the minimal necessary parameters for the integration
 
 ![plan](/exercises/ex0/images/overview.png)
 
-### My Inbox
+### 2. My Inbox
 
-This Inbox renders the task for a given workflow. It redirects the task based on the authorization and scope to the appropriate user.
-
-It has an parameter management there by it is less error prone and hassle free integration. The parameters are pre-populated based on previous tasks
-
-In provides automation for a given task there by the end user has to click on Execute Step and skip the manual part that comes with it.
-
+The Inbox feature in Cloud Integration Automation Service enhances workflow execution by automatically delegating tasks based on user authorization and scope. Its integrated parameter management system minimizes errors and ensures seamless integration by pre-populating task parameters from preceding tasks. Furthermore, its automation capabilities, eliminates manual operations, thereby boosting efficiency and reducing potential human errors.
 
 ![inbox](/exercises/ex0/images/inbox.jpg)
 
-### Scenario Monitoring
+#### ToDo : Task Execution in Inbox
+
+This section details differnt kinds of tasks, and how to execute them. 
+
+Put images explaining tasks
 
 
-Scenario monitoring gives a overview of the list of Integrations that are performed currently in this tenant and also the tasks / progress for each of the integration scenario. 
+### 3. Scenario Monitoring
+
+Scenario monitoring provides a comprehensive view of the current integration processes being executed within this tenant. It sytematically catalogues each integration scenario, detailing the tasks undertaken and the progress achieved for each. This feature, part of CIAS (Cloud Integration Automation Service), is crucial for maintaining visibility and control over integration operations.
 
 ![seo](/exercises/ex0/images/seo.png)
 
 
-## Summary
 
-This section details the overview of the Cloud Integration Automation Service and the various functionalities that the tool offers. 
-You have a better understanding of the tool
-Let's proceed with the exercise of setting up the integration for SAP S/4HANA Cloud for Projects
 
-### Advantages
-
-* User and task centric approach in integration configuration scenarios, using guided workflows.
-
-* Planning capabilities to plan an integration scenario
-The guided workflow covers an integration setup for a specific scenario.
-
-* Instructions are provided in a task format and can be assigned to a dedicated role.
-
-* Instructions are provided based on your landscape and the chosen integration scenario.
-
-* Automated technical configuration steps on selected targets are available and enabled.
 
 * Monitoring capabilities for the integration scenario guided workflow.
 
