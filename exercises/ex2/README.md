@@ -29,24 +29,38 @@ Select the Plan for Integration tile in the Home screen of the CIAS application
 
 
 6. Click on the (SAP BTP system tile) and select the **TechEd-XP263** tenant from the below list
+
+![BTP](/exercises/ex2/images/btp.png)
+
   
-7. Click on the SAP Cloud Integration and select the **in266-gkd289xc** tenant from the below list
-8. Click on the (SAP S/4HANA system) and select the **my407161** tenant from the below list
+8. Click on the SAP Cloud Integration and select the **in266-gkd289xc** tenant from the below list
 
-9.  Proceed with the **Generate Workflow** button on the top right corner
-10. Confirm the values in the popup and click on **Generate**
+![SCI](/exercises/ex2/images/sci.png)
 
+
+9. Click on the (SAP S/4HANA system) and select the **my407161** tenant from the below list
+
+![S4HC](/exercises/ex2/images/s4c.png)
+
+11.  Proceed with the **Generate Workflow** button on the top right corner
+
+![Generate](/exercises/ex2/images/generate.png)
+
+12. Confirm the values in the popup and click on **Generate**
+
+![Generate](/exercises/ex2/images/generate2.png)
 
 
 ## Result
 
-You've now _successfully_ **generated the workflow**. Now click on the link to navigate to Inbox
+You've now _successfully_ **generated the workflow**. Now click on the link to navigate to Inbox.
 
 ![workflow summary](/exercises/ex2/images/GenerateSummary.png)
 
 
 
 
+In the next exercise, we will execute the workflow and complete the integration setup.
 
-**Continue to - [Exercise 2 - Configuration Setup](../ex3/README.md)**
+**Continue to - [Exercise 3 - Configuration Setup](../ex3/README.md)**
 
