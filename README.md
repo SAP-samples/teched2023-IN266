@@ -55,6 +55,9 @@ Once you complete the above exercise, you will be able to import the project dat
 
 It would be really helpful if you could provide your feedback here : [Feedback](https://url.sap/bo4esn)
 
+Alternatively, you can also scan the following QR code to provide feedback : ![qr code](/exercises/ex0/images/qr_code.png)
+
+
 ## Resources
 1. [Cloud Integration Automation Service Discovery center](https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation?region=all&service_plan=standard&commercialModel=cloud)
 2. [SAP Help Portal](https://help.sap.com/docs/cloud-integration-automation/user-guide/overview?locale=en-US)
