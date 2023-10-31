@@ -9,17 +9,17 @@ __Session ID - IN266__
 
 # Overview
 
-This session introduces participants to the Cloud Integration Automation Service, and you will gain hands-on experience implementing an automated S/4HANA Cloud for Projects, Collaborative Project Management integration scenario. After completing your integration configuration, you can transfer a project created in SAP S/4HANA Cloud to the SAP Cloud for Projects BTP application. 
+This session introduces participants to the Cloud Integration Automation Service, where you will gain hands-on experience implementing an automated **S/4HANA Cloud for Projects, Collaborative Project Management Integration Scenario**. After completing the integration setup, you can transfer a project created in** SAP S/4HANA Cloud** to the **SAP Cloud for Projects BTP application**. 
 
 **<ins>Scenario Description</ins>**
 
-SAP S/4HANA Cloud for projects, collaborative project management is a cloud-based solution for collaboration with all partners in projects. With SAP S/4HANA Cloud for projects, a collaborative project management application, you can share with all project partners crucial information and important documentation about the project.
+SAP S/4HANA Cloud for projects, collaborative project management is a cloud-based solution for collaboration with all the partners involved in a project. With SAP S/4HANA Cloud for projects, you can share with all the project partners, crucial information and important documentation about the project.
 
 ![overview](/exercises/ex1/images/6jn.png)
 
 **<ins>Configuration of the scenario with Cloud Integration Automation Service</ins>**
 
-Cloud Integration Automation service eases the configuration setup in each target system and acts as the orchestrator for the end user. It provides a guided workflow-based automated task execution. Once the configuration tasks are completed, you will be able to import projects from the S/4HANA Cloud to the SAP SAP Cloud for projects.
+Cloud Integration Automation service eases the configuration setup in each target system and acts as the orchestrator for the end user. It provides a guided workflow-based automated task execution. Once the configuration tasks are completed, you will be able to import projects from the **S/4HANA Cloud** to the **SAP SAP Cloud for projects**.
 
 ![cias_overview](/exercises/ex1/images/6jnoverview_cias.png)
 
@@ -51,6 +51,11 @@ Run the following steps to complete the exercise
 - [Exercise 2 - Generation of the workflow](exercises/ex2/README.md)
 - [Exercise 3 - Configuration Setup](exercises/ex3/README.md)    
 - [Next Steps](exercises/ex4/)
+
+## Resources
+1. [Cloud Integration Automation Service Discovery center](https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation?region=all&service_plan=standard&commercialModel=cloud)
+2. [SAP Help Portal](https://help.sap.com/docs/cloud-integration-automation/user-guide/overview?locale=en-US)
+3. [Blogs](https://blogs.sap.com/2018/05/28/cloud-integration-automation-service-what-is-it/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
