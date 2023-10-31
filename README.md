@@ -9,7 +9,7 @@ __Session ID - IN266__
 
 # Overview
 
-This session introduces participants to the Cloud Integration Automation Service, where you will gain hands-on experience implementing an automated **S/4HANA Cloud for Projects, Collaborative Project Management Integration Scenario**. After completing the integration setup, you can transfer a project created in** SAP S/4HANA Cloud** to the **SAP Cloud for Projects BTP application**. 
+This session introduces participants to the Cloud Integration Automation Service, where you will gain hands-on experience implementing an automated **S/4HANA Cloud for Projects, Collaborative Project Management Integration Scenario**. After completing the integration setup, you can transfer a project created in **SAP S/4HANA Cloud** to the **SAP Cloud for Projects BTP application**. The documentation for the same can be found [here](https://support.sap.com/content/dam/SAAP/Sol_Pack/S4C/Library/Setup/6JN_Set-Up_EN_XX.pdf).
 
 **<ins>Scenario Description</ins>**
 
@@ -62,6 +62,7 @@ It would be really helpful if you could provide your feedback here : [Feedback](
 1. [Cloud Integration Automation Service Discovery center](https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation?region=all&service_plan=standard&commercialModel=cloud)
 2. [SAP Help Portal](https://help.sap.com/docs/cloud-integration-automation/user-guide/overview?locale=en-US)
 3. [Blogs](https://blogs.sap.com/2018/05/28/cloud-integration-automation-service-what-is-it/)
+4. (Setting up 6JN scenario](https://support.sap.com/content/dam/SAAP/Sol_Pack/S4C/Library/Setup/6JN_Set-Up_EN_XX.pdf)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
