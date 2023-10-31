@@ -32,14 +32,14 @@ Automation tasks are those that perform the configuration automatically based on
 
 #### 2. Manual task
 
-Manual tasks are those that require manual setup of the configuration steps. The easiest way to identify an automation task is to look for the absence of the **Execute Task** (1) button at the footer of the inbox. The manual tasks may or may not contain a parameter (2) section. To successfully complete a manual task, please perform the configuration steps manually. There will be deep links (3) embedded in the documentation itself. You can click on the link and follow the documentation to complete the steps. In case of mandatory parameters that are not pre-filled, kindly fill the same after completing the configuration manually. After completion of the configuration, click on the **Task Completed** button to proceed to the next task.
+Manual tasks are those that require manual setup of the configuration steps. The easiest way to identify an automation task is to look for the absence of the **Execute Task** button at the footer of the inbox. The manual tasks may or may not contain a **parameter** (1) section. To successfully complete a manual task, please perform the configuration steps manually. There will be **deep links** (2) embedded in the documentation itself. You can click on the link and follow the documentation to complete the steps. In case of mandatory parameters that are not pre-filled, kindly fill the same after completing the configuration manually. After completion of the configuration, click on the **Task Completed** (3) button to proceed to the next task.
 
-![Manual task](/exercises/ex0/images/automation_task.png)
+![Manual task](/exercises/ex0/images/manual_task.png)
 
 
 ### 3. Scenario Monitoring
 
-Scenario monitoring provides a comprehensive view of the current integration processes being executed within this tenant. It sytematically catalogues each integration scenario, detailing the tasks undertaken and the progress achieved for each. This feature, part of CIAS (Cloud Integration Automation Service), is crucial for maintaining visibility and control over integration operations.
+Scenario monitoring provides a comprehensive view of the current integration processes being executed within this tenant. It systematically catalogs each integration scenario, detailing the tasks undertaken and the progress achieved for each. This feature, part of CIAS (Cloud Integration Automation Service), is crucial for maintaining visibility and control over integration operations.
 
 ![seo](/exercises/ex0/images/seo.png)
 
