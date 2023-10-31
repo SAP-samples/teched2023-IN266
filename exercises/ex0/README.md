@@ -1,28 +1,34 @@
-# Exercise 1 : Getting Started
+# Exercise 1: Getting Started
 
-In this exercise, you will will get an overview of the capabilities of CIAS which will be helpful for the successful completion of the hands-on exercise.
+In this exercise, you will get an overview of the capabilities of CIAS which will be helpful for the successful completion of the hands-on exercise.
 
 ## Overiew
 
-The Cloud Integration Automation Service homepage consist of three tiles -:
+The Cloud Integration Automation Service homepage consists of three tiles -:
 
 ### 1. Plan for Integration
 
-This section details all the integration scenario that is onboarded with CIAS, you can choose based on the Cloud or Hybrid setup and generate a workflow. It has an integrated landscape discovery where it prompts the user that the customer owns in the system selection. In case of fully automated scenario, you can run the whole setup in background by giving all the minimal necessary parameters for the integration
+This section contains the integration scenarios that are onboarded into CIAS. You can choose based on the Cloud or Hybrid setup and generate a workflow. It has an integrated landscape discovery that prompts the customer to select the system that they own. In the case of a fully automated scenario, you can run the whole setup in the background mode as well.
 
 ![plan](/exercises/ex0/images/overview.png)
 
 ### 2. My Inbox
 
-The Inbox feature in Cloud Integration Automation Service enhances workflow execution by automatically delegating tasks based on user authorization and scope. Its integrated parameter management system minimizes errors and ensures seamless integration by pre-populating task parameters from preceding tasks. Furthermore, its automation capabilities, eliminates manual operations, thereby boosting efficiency and reducing potential human errors.
+The Inbox feature in Cloud Integration Automation Service supports workflow execution by automatically delegating tasks based on user authorization and scope. Its integrated parameter management system minimizes errors and ensures seamless integration by pre-populating task parameters from preceding tasks. Furthermore, its automation capabilities, eliminate manual operations, thereby boosting efficiency and reducing potential human errors.
 
 ![inbox](/exercises/ex0/images/inbox.jpg)
 
-#### ToDo : Task Execution in Inbox
+#### <ins>Task Execution in Inbox</ins>
 
-This section details differnt kinds of tasks, and how to execute them. 
+There are 2 kinds of workflow tasks that a user might encounter while executing a workflow in Inbox.
 
-Put images explaining tasks
+#### 1. Automation task
+
+Automation tasks are those that perform the configuration automatically based on the parameters (1) that are provided. The easiest way to identify an automation task is to look for the **Execute Task** (2) button at the footer of the Inbox. To execute an automation task, please provide the parameters (if not pre-filled) and then press the **Execute Task** button. This will trigger the automation and the configuration will be performed. The successful completion of the configuration will be indicated by the Success badge (3) near the parameter section. The attached manual documentation at the bottom serves as an alternative to performing the automation manually. 
+
+**For the hands-on session, in case of an error, please reach out to colleagues for support.**
+
+![Automation task](/exercises/ex0/images/automation-task.png)
 
 
 ### 3. Scenario Monitoring
