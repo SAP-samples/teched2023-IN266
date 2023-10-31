@@ -1,23 +1,32 @@
-# Exercise 1 - Generation of Workflow
-In this exercise, we will __generate a workflow__ for the Integration scenario - _Cloud For Projects - Projects Collaboration_
+# Exercise 2 - Generation of Workflow
+In this exercise, we will __generate a workflow__ for the Integration scenario - __S/4HANA Cloud for Projects, Collaborative Project Management (6JN)__
 
 ## Plan for Integration
 
 Select the Plan for Integration tile in the Home screen of the CIAS application
 
 
-1. Select the __Plan for Integration__ tile in the Home screen of the CIAS application 
+1. Log in to [Cloud Integration Automation Service](https://cias-teched-b7x9jgv5.cias-preprod.cfapps.eu10.hana.ondemand.com/) with your [credentials](https://github.com/SAP-samples/teched2023-IN266#access-information).
+
+2. Select the __Plan for Integration__ tile in the home screen of the Cloud Integration Automation Service application.
    
 ![scenario selection](/exercises/ex2/images/overview.png)
 
-2. Search for **S/4HANA Cloud for Projects, Collaborative Project Management (6JN)** integration scenario
-3. Select the line item that will open up the side panel with more information about the integration scenario
-   
-4. [Optional] You can look at the Description, Entities and Scenario tasks overview
+
+3. Search for **S/4HANA Cloud for Projects, Collaborative Project Management (6JN)** integration scenario.
+
+![scenario selection](/exercises/ex2/images/search.png)
+
+
+4. Select the line item. It will open up the side panel with more information about the integration scenario.
+
+![scenario selection](/exercises/ex2/images/select.png)
+
 
 5. Click on the Select Systems button in the side panel
    
-![system selection](/exercises/ex2/images/selectsystem.png)
+![system selection](/exercises/ex2/images/select_system.png)
+
 
 6. Click on the (SAP BTP system tile) and select the **TechEd-XP263** tenant from the below list
   
