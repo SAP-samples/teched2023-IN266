@@ -8,7 +8,9 @@ The Cloud Integration Automation Service homepage consists of three tiles -:
 
 ### 1. Plan for Integration
 
-This section contains the integration scenarios that are onboarded into CIAS. You can choose based on the Cloud or Hybrid setup and generate a workflow. It has an integrated landscape discovery that prompts the customer to select the system that they own. In the case of a fully automated scenario, you can run the whole setup in the background mode as well.
+This section contains the integration scenarios that are onboarded into CIAS. You can choose based on the Cloud or Hybrid setup and generate a workflow. It has an integrated landscape discovery that prompts the customer to select the system that they own. In the case of a fully automated scenario, you can run the whole setup in the background mode as well. 
+
+**Note: In the next exercise, we will take a deeper look into the functions of the Planning app.**
 
 ![plan](/exercises/ex0/images/overview.png)
 
@@ -17,6 +19,17 @@ This section contains the integration scenarios that are onboarded into CIAS. Yo
 The Inbox feature in Cloud Integration Automation Service supports workflow execution by automatically delegating tasks based on user authorization and scope. Its integrated parameter management system minimizes errors and ensures seamless integration by pre-populating task parameters from preceding tasks. Furthermore, its automation capabilities, eliminate manual operations, thereby boosting efficiency and reducing potential human errors.
 
 ![inbox](/exercises/ex0/images/inbox.jpg)
+
+The following are the different sections within the Inbox -
+1. **Task Instructions** - This tab displays the documentation for the current task. It also contains parameters and the ability to execute automation.
+2. **Task Overview** - This tab provides a hierarchical view of all the tasks and their documentation for the complete workflow. **Note:** This view is to be used only for reference. Current task instructions will be available in the **Task Instructions** tab only.
+3. **Comments** - This tab provides the ability to add comments. Comments can be used as a medium to communicate with other workflow users (for the current workflow).
+4. **System Access** - This tab provides information about the current system for which the task instructions are displayed in the **Task Instructions** tab.
+5. **Assigned To** - This tab provides workflow user information for the current task.
+6. **Support information** - This tab contains metadata information about the workflow.
+7. **Logs** - In the case of automation tasks, after triggering the automation, the logs can be seen in the logs tab. Individual automation logs can be visualized from the log button next to individual parameter sections. For aggregate logs, please click the logs button at the top right of the screen.
+
+![task overview](/exercises/ex0/images/task_overview.png)
 
 #### <ins>Task Execution in Inbox</ins>
 
@@ -42,5 +55,7 @@ Manual tasks are those that require manual setup of the configuration steps. The
 Scenario monitoring provides a comprehensive view of the current integration processes being executed within this tenant. It systematically catalogs each integration scenario, detailing the tasks undertaken and the progress achieved for each. This feature, part of CIAS (Cloud Integration Automation Service), is crucial for maintaining visibility and control over integration operations.
 
 ![seo](/exercises/ex0/images/seo.png)
+
+Let us now proceed to the next exercise, where we will generate the workflow.
 
 **Continue to - [Exercise 2 - Generate a workflow](../ex2/README.md)**
