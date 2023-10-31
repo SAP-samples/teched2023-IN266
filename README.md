@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-IN266)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-IN266)
+![REUSE status](https://api.reuse.software/info/github.com/SAP-samples/teched2023-IN266)
 
 # IN266 - Take an Automated Approach to Configuring Integration Scenarios on SAP BTP
 
@@ -9,17 +9,17 @@ __Session ID - IN266__
 
 # Overview
 
-This session introduces participants to the Cloud Integration Automation Service, and you will gain hands-on experience implementing an automated S/4HANA Cloud for Projects, Collaborative Project Management integration scenario. At the end of completing your integration configutration, you will be able to transfer a project created in SAP S/4HANA Cloud  to SAP Cloud for Projects BTP application. 
+This session introduces participants to the Cloud Integration Automation Service, and you will gain hands-on experience implementing an automated S/4HANA Cloud for Projects, Collaborative Project Management integration scenario. After completing your integration configuration, you can transfer a project created in SAP S/4HANA Cloud to the SAP Cloud for Projects BTP application. 
 
 **<ins>Scenario Description</ins>**
 
-SAP S/4HANA Cloud for projects, collaborative project management is a cloud-based solution for collaboration with all partners in projects. With SAP S/4HANA Cloud for projects, collaborative project management, you can share with all project partners crucial information and important documentation about the project.
+SAP S/4HANA Cloud for projects, collaborative project management is a cloud-based solution for collaboration with all partners in projects. With SAP S/4HANA Cloud for projects, a collaborative project management application, you can share with all project partners crucial information and important documentation about the project.
 
 ![overview](/exercises/ex1/images/6jn.png)
 
 **<ins>Configuration of the scenario with Cloud Integration Automation Service</ins>**
 
-Cloud Integration Automation service eases the configuration setup in each of the target system and acts as the orchestrator for the end user. It provides a guided workflow based automated task execution. Once the configuration tasks are completed, then the you will be able to import projects from the S/4HANA Cloud to the SAP SAP Cloud for projects.
+Cloud Integration Automation service eases the configuration setup in each target system and acts as the orchestrator for the end user. It provides a guided workflow-based automated task execution. Once the configuration tasks are completed, you will be able to import projects from the S/4HANA Cloud to the SAP SAP Cloud for projects.
 
 ![cias_overview](/exercises/ex1/images/6jnoverview_cias.png)
 
@@ -35,21 +35,21 @@ Cloud Integration Automation service eases the configuration setup in each of th
 
 ## Access Information
 
-You can login to the above application/tenants with credentials assigned to you. 
+You can log in to the above application/tenants with credentials assigned to you. 
 
 For Example:
-> _Username:_ IN266-0XX@education.cloud.sap ( `XX is your number assigned to you during the hands on exercise` )
+> _Username:_ IN266-0XX@education.cloud.sap ( `XX is your number assigned to you during the hands-on exercise` )
 
-> _Password:_ `Password will be shared during the hands on exercise` 
+> _Password:_ `Password will be shared during the hands-on exercise` 
 
 
 ## Exercises
 
 Run the following steps to complete the exercise
 
-- [Getting Started](exercises/ex0/README.md)
-- [Generation of workflow](exercises/ex2/README.md)
-- [Configuration Setup](exercises/ex3/README.md)    
+- [Exercise 1 - Getting Started](exercises/ex0/README.md)
+- [Exercise 2 - Generation of the workflow](exercises/ex2/README.md)
+- [Exercise 3 - Configuration Setup](exercises/ex3/README.md)    
 - [Next Steps](exercises/ex4/)
 
 ## Contributing
