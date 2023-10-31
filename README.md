@@ -49,8 +49,11 @@ Run the following steps to complete the exercise
 
 - [Exercise 1 - Getting Started](exercises/ex0/README.md)
 - [Exercise 2 - Generation of the workflow](exercises/ex2/README.md)
-- [Exercise 3 - Configuration Setup](exercises/ex3/README.md)    
-- [Next Steps](exercises/ex4/)
+- [Exercise 3 - Configuration Setup](exercises/ex3/README.md)
+
+Once you complete the above exercise, you will be able to import the project data from the **S/4HANA Cloud** system to the **SAP SAP Cloud for projects** application on BTP.
+
+It would be really helpful if you could provide your feedback here : [Feedback](https://url.sap/bo4esn)
 
 ## Resources
 1. [Cloud Integration Automation Service Discovery center](https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation?region=all&service_plan=standard&commercialModel=cloud)
