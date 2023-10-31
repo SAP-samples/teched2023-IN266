@@ -24,11 +24,17 @@ There are 2 kinds of workflow tasks that a user might encounter while executing 
 
 #### 1. Automation task
 
-Automation tasks are those that perform the configuration automatically based on the parameters (1) that are provided. The easiest way to identify an automation task is to look for the **Execute Task** (2) button at the footer of the Inbox. To execute an automation task, please provide the parameters (if not pre-filled) and then press the **Execute Task** button. This will trigger the automation and the configuration will be performed. The successful completion of the configuration will be indicated by the Success badge (3) near the parameter section. The attached manual documentation at the bottom serves as an alternative to performing the automation manually. 
+Automation tasks are those that perform the configuration automatically based on the parameters (1) that are provided. The easiest way to identify an automation task is to look for the **Execute Task** (2) button at the footer of the Inbox. To execute an automation task, please provide the parameters (if not pre-filled) and then press the **Execute Task** button. This will trigger the automation and the configuration will be performed. The successful completion of the configuration will be indicated by the Success badge (3) near the parameter section. The attached manual documentation at the bottom serves as an alternative to performing the automation manually.  After successful completion of the automation (Success badge), click on the **Task Completed** (4) button to proceed to the next task.
 
 **For the hands-on session, in case of an error, please reach out to colleagues for support.**
 
-![Automation task](/exercises/ex0/images/automation-task.png)
+![Automation task](/exercises/ex0/images/automation_task.png)
+
+#### 2. Manual task
+
+Manual tasks are those that require manual setup of the configuration steps. The easiest way to identify an automation task is to look for the absence of the **Execute Task** (1) button at the footer of the inbox. The manual tasks may or may not contain a parameter (2) section. To successfully complete a manual task, please perform the configuration steps manually. There will be deep links (3) embedded in the documentation itself. You can click on the link and follow the documentation to complete the steps. In case of mandatory parameters that are not pre-filled, kindly fill the same after completing the configuration manually. After completion of the configuration, click on the **Task Completed** button to proceed to the next task.
+
+![Manual task](/exercises/ex0/images/automation_task.png)
 
 
 ### 3. Scenario Monitoring
