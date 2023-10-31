@@ -1,37 +1,32 @@
-# Exercise 2 - Configuration Setup
+# Exercise 3 - Configuration Steps
 
-In this exercise, we will do the configuration of the integration scenario against the workflow tasks. 
+In this exercise, we will execute the workflow tasks. Following are the tasks that you have to execute.
 
-## Inbox
+## Task: Disclaimer
 
-The Inbox will display the first task of the scenario which is the Disclaimer. 
-You will have to read the instructions of the Disclaimer task and click on Accept as shown below
-
+The first task of the workflow is the **Disclaimer** task. Please read the instructions of the **Disclaimer** task and click on **Accept** as shown below.
 
 ![disclaimer](/exercises/ex3/images/disclaimer.png)
 
 
+## Task: Confirm Systems
 
-## Confirm Systems
+The next task is the **Confirm System Components** task. In this task, we will confirm the system/tenant details that will be used to set up the integration scenario. You need to select the destination (**CI: Cloud Integration Destination**) for the **SAP Cloud Integration tenant** as shown in the image below. Once that is done, click on **Confirm Systems** as shown in the above diagram. 
 
-The system task presents system components that is part of the integration setup. You can confirm the systems in this task and incase there are some changes, the values can be changed. 
-
-You need to select the destination for Cloud Integration tenant as shown below
-
-Once that is done, click on Confirm Systems as shown in the above diagram. 
+**<ins>NOTE: Please DO NOT change any other system details that are already pre-filled.</ins>**
 
 ![systems](/exercises/ex3/images/system.png)
 
-## Roles
+## Task: Assign Users to required Roles
 
-The roles task gives flexibility in assigning the tasks to the appropriate user. For example, in a customer environment the BTP Administrator might be different from the S/4 Administrator. Here you need to select the users of the Cloud Integration Automation Service who will be performing the tasks against the target system. 
+The next task is the **Assign Users to required Roles** task. In this task, you will assign the user to the roles that are required by the workflow. In the productive scenario, these users may be different. For example, in a customer environment, the BTP Administrator might be different from the S/4 Administrator. But for the hands-on session, kindly assign your user to all the roles.
 
-You can click on the Assign all roles to me as shown below and proceed with the next tasks. 
+<ins>**NOTE:** Click on the **Assign all roles to my user** as shown below and proceed to the next task by clicking **Confirm Role Assignment**.</ins> 
 
 ![roles](/exercises/ex3/images/roles.png)
 
 
-## Integration Task 
+## Task: Create Subaccount
 
 Now you will be presented with the first task of the integration scenario. The task presents some parameters on the top followed by the instructions below. 
 
