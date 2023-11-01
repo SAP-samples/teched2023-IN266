@@ -40,7 +40,7 @@ Cloud Integration Automation service eases the configuration setup in each targe
 
 You can log in to the above application/tenants with credentials assigned to you. 
 
-1. __Username:__ IN266-0XX@education.cloud.sap ( `XX is the number assigned to you during the hands-on exercise` )
+1. __Username:__ IN266-0XX@education.cloud.sap (`XX will be assigned to you during the hands-on exercise`)
 
 2. __Password:__ `Password will be shared during the hands-on exercise` 
 
