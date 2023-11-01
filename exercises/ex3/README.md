@@ -41,8 +41,34 @@ Once the automation is completed successfully, you can proceed to the next task 
 
 ## Task: Assign Entitlement of SAP S/4HANA Cloud for Projects, Collaborative Project Management to Subaccount
 
-This is also an automation task.
+This is also an **automation** task. All the parameters will be already pre-filled.
 Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+
+## Task: Establish Trust with Identity Authentication
+
+This is a **manual** task.
+Unlike, the previous tasks, this one does not have automation capability. Rather, it makes use of **deep links** (1) to semi-automate and ease the manual configuration steps. In this task, kindly read the **Manual instructions** (2) section and perform the steps exactly as it is described in the section. Once all the steps are performed in the target system, click on **Task Completed** (3) button, to complete the task.
+
+**NOTE**: If you fail to perform a particular step / do not perform at all, will lead to an erroneous situation later on. The integration setup will be incomplete. Hence, it is highly encouraged to perform the steps carefully and verify the expected result based on the **Results** section of the **Manual Instructions** documentation.
+
+![create_subaccount2](/exercises/ex3/images/setup_trust.png)
+
+## Task: Subscribe to SAP S/4HANA Cloud for Projects, Collaborative Project Management
+
+This is also an **automation** task. All the parameters will be already pre-filled.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+
+## Task: Configuration in SAP S/4HANA Cloud
+
+This is a **manual** task that informs about the upcoming configuration steps.
+You can read the documentation and click on **Task Completed** to proceed to the next task.
+
+## Task: Create Communication User
+
+This is a **manual** task. 
+Kindly execute the manual task by reading the **Manual documentation** section. For support, you can refer to the [Establish Trust with Identity Authentication](#task-create-subaccount) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+
+**NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
 # Summary
 
