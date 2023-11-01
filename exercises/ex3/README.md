@@ -4,7 +4,7 @@ In this exercise, we will execute the workflow tasks. Following are the tasks th
 
 ## Task: Disclaimer
 
-The first task of the workflow is the **Disclaimer** task. Please read the instructions of the **Disclaimer** task and click on **Accept** as shown below.
+The first task of the workflow is the **Disclaimer** task. Please read the instructions of the **Disclaimer** task and click on **I Agree** as shown below.
 
 ![disclaimer](/exercises/ex3/images/disclaimer.png)
 
@@ -13,7 +13,7 @@ The first task of the workflow is the **Disclaimer** task. Please read the instr
 
 The next task is the **Confirm System Components** task. In this task, we will confirm the system/tenant details that will be used to set up the integration scenario. You need to select the destination (**CI: Cloud Integration Destination**) for the **SAP Cloud Integration tenant** as shown in the image below. Once that is done, click on **Confirm Systems** as shown in the above diagram. 
 
-**<ins>NOTE: Please DO NOT change any other system details that are already pre-filled.</ins>**
+**NOTE:** Please **DO NOT** change any other system details that are already pre-filled.
 
 ![systems](/exercises/ex3/images/system.png)
 
@@ -21,24 +21,28 @@ The next task is the **Confirm System Components** task. In this task, we will c
 
 The next task is the **Assign Users to required Roles** task. In this task, you will assign the user to the roles that are required by the workflow. In the productive scenario, these users may be different. For example, in a customer environment, the BTP Administrator might be different from the S/4 Administrator. But for the hands-on session, kindly assign your user to all the roles.
 
-<ins>**NOTE:** Click on the **Assign all roles to my user** as shown below and proceed to the next task by clicking **Confirm Role Assignment**.</ins> 
+**NOTE:** Click on the **Assign all roles to my user** (1) as shown below. It will automatically fill in your user details in the input fields (2) and proceed to the next task by clicking **Confirm Role Assignment** (3).
 
-![roles](/exercises/ex3/images/roles.png)
+![roles](/exercises/ex3/images/roles1.png)
 
 
 ## Task: Create Subaccount
 
-Now you will be presented with the first task of the integration scenario. The task presents some parameters on the top followed by the instructions below. 
+Now you will be presented with the first task of the integration scenario - **Create Subaccount**. 
 
-Please follow through the instructions carefully in order to do the setup. 
+This is an **automation task**. For more details on the different kinds of tasks and how to identify them, kindly read this [section](https://github.com/SAP-samples/teched2023-IN266/blob/main/exercises/ex0/README.md#task-execution-in-inbox). There are two automation in this task - **Create Subaccount** and **Assign Subaccount Administrator**, which will create the BTP Subaccount and assign your user as the Subaccount Admin for the same.
 
-You can take a look at the Overview which tells what task are you currently at and how many tasks are present in the integration scenario. 
-![overview](/exercises/ex3/images/overview.png)
-You can also leave a comment in the workflow so that others working on the workflow will be notified. 
+The parameters required for this automation task are already filled out. You **DO NOT** have to change anything. Kindly execute the automation task by clicking on the **Execute** (1) button. The automation status (2) would be displayed near the parameters section. Kindly wait for the automation to complete (In progress status will change to Success)(4). Optionally, while the automation executes, you can also read the automation documentation (5), to better understand what is going on in the background.
 
-Follow all the instructions and complete the workflow.
+![create_subaccount](/exercises/ex3/images/create_subaccount.png)
+![create_subaccount2](/exercises/ex3/images/create_subaccount2.png)
 
-![task](/exercises/ex3/images/usertask.png)
+Once the automation is completed successfully, you can proceed to the next task by clicking on **Task Completed** button.
+
+## Task: Assign Entitlement of SAP S/4HANA Cloud for Projects, Collaborative Project Management to Subaccount
+
+This is also an automation task.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
 
 # Summary
 
