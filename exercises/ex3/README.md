@@ -141,6 +141,5 @@ It would be really helpful if you could provide your feedback here : [Feedback](
 
 ![qr code](/exercises/ex0/images/qr_code.png)
 
-Please DO NOT FORGET to provide your valuable [Feedback](../README.md#exercises)!
 
-**Back to [Home page](../README.md)**
+**Back to [Home page](../../README.md)**
