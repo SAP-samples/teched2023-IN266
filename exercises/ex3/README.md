@@ -23,7 +23,7 @@ The next task is the **Assign Users to required Roles** task. In this task, you 
 
 **NOTE:** Click on the **Assign all roles to my user** (1) as shown below. It will automatically fill in your user details in the input fields (2) and proceed to the next task by clicking **Confirm Role Assignment** (3).
 
-![roles](/exercises/ex3/images/roles1.png)
+![roles](/exercises/ex3/images/roles2.png)
 
 
 ## Task: Create Subaccount
