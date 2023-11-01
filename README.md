@@ -46,7 +46,7 @@ You can log in to the above application/tenants with credentials assigned to you
 
 **NOTE:** While logging in to any of the above applications (**OPTIONAL**), select the **tdct3ched2.accounts.ondemand.com** IDP (if prompted).
 
-![Teched IDP](/exercises/ex0/images/idp.png)
+![Teched IDP](/exercises/ex0/images/idp1.png)
 
 ## Exercises
 
