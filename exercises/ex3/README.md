@@ -135,6 +135,12 @@ Upon successful completion of this step, you will be able to see the project dat
 Congratulations!
 You have successfully completed the technical integration setup that was required to import project data from **SAP S/4HANA Cloud** to the **SAP Cloud for Projects BTP application**.
 
+# Feedback
+
+It would be really helpful if you could provide your feedback here : [Feedback](https://url.sap/bo4esn). Alternatively, you can also scan the following QR code to provide feedback: 
+
+![qr code](/exercises/ex0/images/qr_code.png)
+
 Please DO NOT FORGET to provide your valuable [Feedback](../README.md#exercises)!
 
-**Continue to feedback- [Feedback](../README.md#exercises)**
+**Back to [Home page](../README.md)**
