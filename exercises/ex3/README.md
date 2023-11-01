@@ -66,14 +66,75 @@ You can read the documentation and click on **Task Completed** to proceed to the
 ## Task: Create Communication User
 
 This is a **manual** task. 
-Kindly execute the manual task by reading the **Manual documentation** section. For support, you can refer to the [Establish Trust with Identity Authentication](#task-create-subaccount) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 **NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
-# Summary
+## Task: Create Communication System
 
-You should be able to import a project from the S/4 HANA system to the Project Collaboration application that you setup
+This is a **manual** task. 
 
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
+**NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
-**Continue to - [Next Steps](../ex4/README.md)**
+## Task: Create Communication Arrangement (SAP_COM_0308)
+
+This is a **manual** task. 
+
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+
+**NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
+
+## Task: Configuration in SAP Cloud Integration
+
+This is a **manual** task that informs about the upcoming configuration steps.
+You can read the documentation and click on **Task Completed** to proceed to the next task.
+
+## Task: Maintain Credentials of Technical User
+
+This is also an **automation** task. All the parameters will be already pre-filled.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+
+## Task: Copy Integration Package
+
+This is also an **automation** task. All the parameters will be already pre-filled.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+
+## Task: Configure Integration Flow
+
+This is also an **automation** task. All the parameters will be already pre-filled.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+
+## Task: Configuration in SAP BTP Cockpit
+
+This is a **manual** task that informs about the upcoming configuration steps.
+You can read the documentation and click on **Task Completed** to proceed to the next task.
+
+## Task: Create Destination to SAP Cloud Integration
+
+This is also an **automation** task. All the parameters will be already pre-filled.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+
+## Task: Create and Import Projects from SAP S/4HANA Cloud to SAP Cloud for Projects
+
+This is a **manual** task that informs about the upcoming configuration steps.
+You can read the documentation and click on **Task Completed** to proceed to the next task.
+
+## Task: Create Projects in S/4HANA Cloud
+
+This is a **manual** task. 
+
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+
+Upon successful completion of this step, you will be able to see the project data created in **SAP S/4HANA Cloud**  in the **SAP Cloud for Projects BTP application**.
+
+## Task: Summary
+
+Congratulations!
+You have successfully completed the technical integration setup that was required to import project data from **SAP S/4HANA Cloud** to the **SAP Cloud for Projects BTP application**.
+
+Please DO NOT FORGET to provide your valuable [Feedback](../README.md#exercises)!
+
+**Continue to feedback- [Feedback](../README.md#exercises)**
