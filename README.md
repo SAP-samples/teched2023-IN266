@@ -18,7 +18,7 @@ SAP S/4HANA Cloud for projects, collaborative project management is a cloud-base
 
 In this hands-on session, the following integration will be implemented - 
 
-![overview](/exercises/ex1/images/6jn.png)
+![overview](/exercises/ex0/images/target_integration.png)
 
 **<ins>Configuration of the scenario with Cloud Integration Automation Service</ins>**
 
