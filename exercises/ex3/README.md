@@ -11,7 +11,9 @@ The first task of the workflow is the **Disclaimer** task. Please read the instr
 
 ## Task 2: Confirm Systems
 
-The next task is the **Confirm System Components** task. In this task, we will confirm the system/tenant details that will be used to set up the integration scenario. You need to select the destination (**CI: Cloud Integration Destination**) for the **SAP Cloud Integration tenant** as shown in the image below. Once that is done, click on **Confirm Systems** as shown in the below diagram. 
+The next task is the **Confirm System Components** task. In this task, we will confirm the system/tenant details that will be used to set up the integration scenario. You need to select the destination (**CI: Cloud Integration Destination**) for the **SAP Cloud Integration tenant** as shown in the image below (ℹ️). Once that is done, click on **Confirm Systems** as shown in the below diagram. 
+
+> ℹ️ Automations for the SAP Cloud Integration are triggered via [Destinations](https://help.sap.com/docs/btp/sap-business-technology-platform/create-destination) in BTP Cloud Foundry. You DO NOT have to create a destination as it is already configured for you.
 
 **NOTE:** Please **DO NOT** change any other system details that are already pre-filled.
 
@@ -53,84 +55,84 @@ This task makes use of **deep links** (1) to semi-automate and ease the manual c
 
 ![create_subaccount2](/exercises/ex3/images/setup_trust.png)
 
-## Task: Subscribe to SAP S/4HANA Cloud for Projects, Collaborative Project Management
+## Task 7: Subscribe to SAP S/4HANA Cloud for Projects [Automation Task]
 
 This is also an **automation** task. All the parameters will be already pre-filled.
-Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-4-create-subaccount-automation-task) task.
 
-## Task: Configuration in SAP S/4HANA Cloud
+## Task 8: Configuration in SAP S/4HANA Cloud [Manual Task]
 
-This is a **manual** task that informs about the upcoming configuration steps.
+This is a **manual** task that informs the user about the upcoming configuration steps.
 You can read the documentation and click on **Task Completed** to proceed to the next task.
 
-## Task: Create Communication User
+## Task 9: Create Communication User [Manual Task]
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 **NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
-## Task: Create Communication System
+## Task 10: Create Communication System [Manual Task]
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 **NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
-## Task: Create Communication Arrangement (SAP_COM_0308)
+## Task 11: Create Communication Arrangement [Manual Task]
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 **NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
-## Task: Configuration in SAP Cloud Integration
+## Task 12: Configuration in SAP Cloud Integration [Manual Task]
 
 This is a **manual** task that informs about the upcoming configuration steps.
 You can read the documentation and click on **Task Completed** to proceed to the next task.
 
-## Task: Maintain Credentials of Technical User
+## Task 13: Maintain Credentials of Technical User [Automation Task]
 
 This is also an **automation** task. All the parameters will be already pre-filled.
-Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-4-create-subaccount-automation-task) task.
 
-## Task: Copy Integration Package
-
-This is also an **automation** task. All the parameters will be already pre-filled.
-Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
-
-## Task: Configure Integration Flow
+## Task 14: Copy Integration Package [Automation Task]
 
 This is also an **automation** task. All the parameters will be already pre-filled.
-Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-4-create-subaccount-automation-task) task.
 
-## Task: Configuration in SAP BTP Cockpit
+## Task 15: Configure Integration Flow [Automation Task]
+
+This is also an **automation** task. All the parameters will be already pre-filled.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-4-create-subaccount-automation-task) task.
+
+## Task 16: Configuration in SAP BTP Cockpit [Manual Task]
 
 This is a **manual** task that informs about the upcoming configuration steps.
 You can read the documentation and click on **Task Completed** to proceed to the next task.
 
-## Task: Create Destination to SAP Cloud Integration
+## Task 17: Create Destination to SAP Cloud Integration [Automation Task]
 
 This is also an **automation** task. All the parameters will be already pre-filled.
-Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-4-create-subaccount-automation-task) task.
 
-## Task: Create and Import Projects from SAP S/4HANA Cloud to SAP Cloud for Projects
+## Task 18: Create and Import Projects from SAP S/4HANA Cloud to SAP Cloud for Projects [Manual Task]
 
 This is a **manual** task that informs about the upcoming configuration steps.
 You can read the documentation and click on **Task Completed** to proceed to the next task.
 
-## Task: Create Projects in S/4HANA Cloud
+## Task 19: Create Projects in S/4HANA Cloud [Manual Task]
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 Upon successful completion of this step, you will be able to see the project data created in **SAP S/4HANA Cloud**  in the **SAP Cloud for Projects BTP application**.
 
-## Task: Summary
+## Task 20: Summary
 
 Congratulations!
 You have successfully completed the technical integration setup that was required to import project data from **SAP S/4HANA Cloud** to the **SAP Cloud for Projects BTP application**.
