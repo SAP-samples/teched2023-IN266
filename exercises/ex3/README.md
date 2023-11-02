@@ -2,14 +2,14 @@
 
 In this exercise, we will execute the workflow tasks. Following are the tasks that you have to execute.
 
-## Task 1: Disclaimer [ADMIN TASK]
+## Task 1: Disclaimer
 
-The first task of the workflow is the **Disclaimer** task. Please read the instructions of the **Disclaimer** task and click on **I Agree** as shown below.
+The first task of the workflow is the **Disclaimer** task. Please read the instructions of the **Disclaimer** task and click on **I Agree** button to continue to the next task.
 
 ![disclaimer](/exercises/ex3/images/disclaimer.png)
 
 
-## Task 2: Confirm Systems [ADMIN TASK]
+## Task 2: Confirm Systems
 
 The next task is the **Confirm System Components** task. In this task, we will confirm the system/tenant details that will be used to set up the integration scenario. You need to select the destination (**CI: Cloud Integration Destination**) for the **SAP Cloud Integration tenant** as shown in the image below. Once that is done, click on **Confirm Systems** as shown in the below diagram. 
 
@@ -17,7 +17,7 @@ The next task is the **Confirm System Components** task. In this task, we will c
 
 ![systems](/exercises/ex3/images/system.png)
 
-## Task 3: Assign Users to required Roles [ADMIN TASK]
+## Task 3: Assign Users to required Roles
 
 The next task is the **Assign Users to required Roles** task. In this task, you will assign the user to the roles that are required by the workflow. In the productive scenario, these users may be different. For example, in a customer environment, the BTP Administrator might be different from the S/4 Administrator. But for the hands-on session, kindly assign your user to all the roles.
 
@@ -26,7 +26,7 @@ The next task is the **Assign Users to required Roles** task. In this task, you 
 ![roles](/exercises/ex3/images/roles2.png)
 
 
-## Task 5: Create Subaccount [AUTOMATION TASK]
+## Task 4: Create Subaccount [Automation Task]
 
 Now you will be presented with the first task of the integration scenario - **Create Subaccount**. 
 
@@ -39,15 +39,15 @@ The parameters required for this automation task are already filled out. You **D
 
 Once the automation is completed successfully, you can proceed to the next task by clicking on **Task Completed** button.
 
-## Task 6: Assign Entitlement of SAP S/4HANA Cloud for Projects [AUTOMATION TASK]
+## Task 5: Assign Entitlement of SAP S/4HANA Cloud for Projects [Automation Task]
 
 This is also an **automation** task. All the parameters will be already pre-filled.
-Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-create-subaccount) task.
+Kindly execute the automation and complete the task, similar to the [Create Subaccount](#task-4-create-subaccount-automation-task) task.
 
-## Task: Establish Trust with Identity Authentication
+## Task 6: Establish Trust with Identity Authentication [Manual Task]
 
 This is a **manual** task.
-Unlike, the previous tasks, this one does not have automation capability. Rather, it makes use of **deep links** (1) to semi-automate and ease the manual configuration steps. In this task, kindly read the **Manual instructions** (2) section and perform the steps exactly as it is described in the section. Once all the steps are performed in the target system, click on **Task Completed** (3) button, to complete the task.
+This task makes use of **deep links** (1) to semi-automate and ease the manual configuration steps. In this task, kindly read the **Manual instructions** (2) section and perform the steps exactly as it is described in the section. Once all the steps are performed in the target system, click on **Task Completed** (3) button, to complete the task.
 
 **NOTE**: If you fail to perform a particular step / do not perform at all, will lead to an erroneous situation later on. The integration setup will be incomplete. Hence, it is highly encouraged to perform the steps carefully and verify the expected result based on the **Results** section of the **Manual Instructions** documentation.
 
