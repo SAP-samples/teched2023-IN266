@@ -132,6 +132,9 @@ Kindly execute the manual task by reading the **Manual documentation** section s
 
 Upon successful completion of this step, you will be able to see the project data created in **SAP S/4HANA Cloud**  in the **SAP Cloud for Projects BTP application**.
 
+![Complete](/exercises/ex0/images/projects.gif)
+
+
 ## Task 20: Summary
 
 Congratulations!
