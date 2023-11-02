@@ -69,7 +69,7 @@ You can read the documentation and click on **Task Completed** to proceed to the
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication-manual-task) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 **NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
@@ -77,7 +77,7 @@ Kindly execute the manual task by reading the **Manual documentation** section s
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication-manual-task) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 **NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
@@ -85,7 +85,7 @@ Kindly execute the manual task by reading the **Manual documentation** section s
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication-manual-task) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 **NOTE**: This task has parameters. These are already pre-filled. Kindly DO NOT modify them.
 
@@ -128,7 +128,7 @@ You can read the documentation and click on **Task Completed** to proceed to the
 
 This is a **manual** task. 
 
-Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
+Kindly execute the manual task by reading the **Manual documentation** section similar to the [Establish Trust with Identity Authentication](#task-6-establish-trust-with-identity-authentication-manual-task) task. Once the setup steps are performed, kindly click on **Task completed** button to move to the next task.
 
 Upon successful completion of this step, you will be able to see the project data created in **SAP S/4HANA Cloud**  in the **SAP Cloud for Projects BTP application**.
 
@@ -139,7 +139,7 @@ You have successfully completed the technical integration setup that was require
 
 # Feedback
 
-It would be really helpful if you could provide your feedback here : [Feedback](https://url.sap/bo4esn). Alternatively, you can also scan the following QR code to provide feedback: 
+Please provide your valuable feedback here : [Feedback](https://url.sap/bo4esn). Alternatively, you can also scan the following QR code to provide feedback: 
 
 ![qr code](/exercises/ex0/images/qr_code.png)
 
