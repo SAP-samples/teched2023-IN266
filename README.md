@@ -26,7 +26,7 @@ Cloud Integration Automation service eases the configuration setup in each targe
 
 ![cias_overview](/exercises/ex1/images/6jnoverview_cias.png)
 
-## Required System & Service
+## Required Systems & Services
 
 - [x] __Cloud Integration Automation Service__: BTP Service used to set up the technical configuration of integration scenarios.
 - [x] __SAP S/4HANA Cloud__
