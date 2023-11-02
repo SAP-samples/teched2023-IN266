@@ -63,6 +63,8 @@ Run the following steps to complete the exercise
 
 Once you complete the above exercise, you can import the project data from the **S/4HANA Cloud** system to the **SAP SAP Cloud for projects** application on BTP.
 
+![Complete](/exercises/ex0/images/projects.gif)
+
 
 It would be helpful if you could provide your feedback here : [Feedback](https://url.sap/bo4esn). Alternatively, you can also scan the following QR code to provide feedback: 
 
