@@ -43,7 +43,11 @@ You can log in to the above application/tenants with credentials assigned to you
       IN266-0XX@education.cloud.sap
     ```
 
-4. __Password:__ `Password will be shared during the hands-on exercise` 
+4. __Password:__ Use the following password
+
+    ```
+        <<Password>>
+    ```
 
 **NOTE:** While logging in to any of the above systems/tenants (**OPTIONAL**), select the **tdct3ched2.accounts.ondemand.com** IDP (if prompted).
 
