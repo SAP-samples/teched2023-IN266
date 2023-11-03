@@ -40,13 +40,13 @@ You can log in to the above application/tenants with credentials assigned to you
 1. __Username:__ Use the following email ID (`XX will be assigned to you during the hands-on exercise`)
 
     ```
-      IN266-0XX@education.cloud.sap
+    IN266-0XX@education.cloud.sap
     ```
 
 4. __Password:__ Use the following password
 
     ```
-        Acce$$teched23
+    Acce$$teched23
     ```
 
 **NOTE:** While logging in to any of the above systems/tenants (**OPTIONAL**), select the **tdct3ched2.accounts.ondemand.com** IDP (if prompted).
