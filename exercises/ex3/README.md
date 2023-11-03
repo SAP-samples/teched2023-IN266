@@ -93,7 +93,7 @@ You have successfully completed the technical integration setup that was require
 
 ![Complete](/exercises/ex0/images/projects.gif)
 
-
+![Integrationsetup](/exercises/ex3/images/Projects.png)
 # Feedback
 
 Please provide your valuable feedback here : [Feedback](https://url.sap/bo4esn). Alternatively, you can also scan the following QR code to provide feedback: 
