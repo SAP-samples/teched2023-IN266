@@ -46,7 +46,7 @@ You can log in to the above application/tenants with credentials assigned to you
 4. __Password:__ Use the following password
 
     ```
-        <<Password>>
+        Acce$$teched23
     ```
 
 **NOTE:** While logging in to any of the above systems/tenants (**OPTIONAL**), select the **tdct3ched2.accounts.ondemand.com** IDP (if prompted).
